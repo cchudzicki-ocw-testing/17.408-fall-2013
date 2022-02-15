@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: An Analysis of Traditional Chinese Strategic Thought
-type: OCWFile
 uid: cad26fd1-81ff-f49c-8b65-72f79ccaf215
 ---

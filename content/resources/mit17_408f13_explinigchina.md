@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Explaining China's Participation in Anti-Piracy Operations in the Gulf of Aden
-type: OCWFile
 uid: 6a5a8016-9cfc-4f9c-169a-8c259eda2c24
 ---
