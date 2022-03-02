@@ -50,5 +50,5 @@ During an average week, students were expected to spend 12 hours on the course, 
 
 ## Out of Class
 
-- Weekly {{< resource_link bbf3ef29-f51d-9034-f7ef-f38f589b5604 "readings" >}} were assigned to prepare for each class session.
-- Students had to complete one {{< resource_link 131441a9-34b3-575c-407f-c95436908649 "research paper" >}} on a topic of their choice.
+- Weekly {{% resource_link bbf3ef29-f51d-9034-f7ef-f38f589b5604 "readings" %}} were assigned to prepare for each class session.
+- Students had to complete one {{% resource_link 131441a9-34b3-575c-407f-c95436908649 "research paper" %}} on a topic of their choice.
