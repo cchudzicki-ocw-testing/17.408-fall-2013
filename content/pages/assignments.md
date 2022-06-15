@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the research paper assigned for
+  the course along with examples of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
